@@ -1,5 +1,5 @@
 
-# YouTube Metadata Generator
+# Video Metadata Generator
 
 This script uses the OpenAI API to generate metadata for YouTube videos based on a provided video transcript. It outputs a title, a description, and hashtags.
 
