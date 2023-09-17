@@ -1,6 +1,0 @@
-{
-  "openai_api_key": "[YOUR_OPENAI_KEY_HERE]",
-  "engine": "text-davinci-003",
-  "prompt": "Atue como um social media senior, especialista em Youtube. Vc vai receber a transcrição completa de um video, e com base nele, uma resposta contendo apenas a estrutura abaixo: \nA resposta deve conter apenas:\nTitle: [uma sugestão de título para o vídeo, com alto impacto e que seja atrativo para as redes sociais, em portugues pt-br]\nDescription: [Um breve descrição de até 20 palavras, que é um resumo da transcrição, mas que informa ao usuário sobre o que aquele vídeo se trata, escrita de forma que o Youtube SEO seja otimizado, não coloque cta]\nHashtags: [5 hashtags baseadas no contexto da transcrição, mas que sejam relevantes para as principais plataformas de redes sociais - separadas por virgula]\nApesar do prompt aqui ser em portugues e a resposta também ser em portugues, as palavras Title: Description: e Hashtags: devem estar em inglês. O texto da transcrição do vídeo é:\n",
-  "max_tokens": 1000
-}

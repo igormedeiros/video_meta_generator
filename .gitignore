@@ -21,9 +21,17 @@ parts/
 sdist/
 var/
 wheels/
+videos/
+videos_processed/
+.idea/
+
 *.egg-info/
 .installed.cfg
 *.egg
+*.xlsx
+*.wav
+*.mp4
+*.log
 MANIFEST
 
 # PyInstaller
@@ -55,3 +63,5 @@ coverage.xml
 
 # Virtual environments
 *_env/
+venv/
+
